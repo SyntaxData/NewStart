@@ -21,7 +21,7 @@ If you still don't trust virustotal then you can look at the project's github an
 Try reinstalling the EXE or wait for a fix
 
 How to compile the code for yourself: 
-download wingetmalware.bat and winget2.bat
+download wingetmalware.bat and winget2.bat or winget3beta.bat (This is a work in progress version)
 Run IExpress, create a new self extraction directive file
 Click next until you get to package title, name it something
 Add a comfirmation prompt, and do not display a license
