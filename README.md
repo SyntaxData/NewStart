@@ -1,5 +1,5 @@
-# InstallDef
-Open source installer for all your computer program needs
+# NewStart
+Open source installer for all your computer program needs in one program
 
 Hi dear reader, you might read this not knowing what to do next and or not having a critical component for this to work
 I'm going to write down what you need to do, if i mistipe anything please know english is not my first language 
